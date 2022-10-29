@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------
 ### Mensagem endereço não encontrado.
 ```text
-Quando o endereço não é encontrado, retornar a mensagem para o usário cadastrar um endereço;
+Ao pressionar tab e o endereço não estiver cadastrado, retornar a mensagem para o usário cadastrar um endereço.
 ```
 ![Imagem MENSAGEM ENDEREÇO NÃO ENCONTRADO](https://i.ibb.co/pxQnd7x/MENSAGEM-ENDERE-O-N-O-ENCONTRADO.png)
 -------------------------------------------------------------------------------------------------------
